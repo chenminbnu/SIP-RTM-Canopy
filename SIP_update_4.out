@@ -1,0 +1,1038 @@
+4
+MATLAB is selecting SOFTWARE OPENGL rendering.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (glnxa64)
+                             February 23, 2018
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+     4
+
+     5
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 184.113132 seconds.
+    10
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 70.939253 seconds.
+    15
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 79.178336 seconds.
+    20
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 158.823488 seconds.
+    25
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 100.233206 seconds.
+    30
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 59.056961 seconds.
+    35
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 184.335023 seconds.
+    40
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 321.594374 seconds.
+    45
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 308.126146 seconds.
+    50
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 265.180186 seconds.
+    55
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 132.801955 seconds.
+    60
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 238.429711 seconds.
+    65
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 252.118146 seconds.
+    70
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 124.763503 seconds.
+    75
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 121.653310 seconds.
+    80
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 107.664962 seconds.
+    85
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 136.494949 seconds.
+    90
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 191.972993 seconds.
+    95
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 155.366067 seconds.
+   100
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 93.181280 seconds.
+   105
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 131.529333 seconds.
+   110
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 327.743246 seconds.
+   115
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 158.290604 seconds.
+   120
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 251.827549 seconds.
+   125
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 340.197361 seconds.
+   130
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 328.351855 seconds.
+   135
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 525.346837 seconds.
+   140
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 555.022523 seconds.
+   145
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 238.974985 seconds.
+   150
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 197.807419 seconds.
+   155
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 230.567785 seconds.
+   160
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 234.296508 seconds.
+   165
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 87.727336 seconds.
+   170
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 363.106556 seconds.
+   175
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 138.321996 seconds.
+   180
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 135.777812 seconds.
+   185
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 148.775987 seconds.
+   190
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 142.541038 seconds.
+   195
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 121.018263 seconds.
+   200
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 136.607013 seconds.
+   205
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 239.279070 seconds.
+   210
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 360.548237 seconds.
+   215
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 295.116453 seconds.
+   220
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 97.248280 seconds.
+   225
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 163.605586 seconds.
+   230
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 153.515492 seconds.
+   235
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 170.097724 seconds.
+   240
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 269.011219 seconds.
+   245
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 391.465244 seconds.
+   250
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 157.989454 seconds.
+   255
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 137.242709 seconds.
+   260
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 82.643333 seconds.
+   265
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 163.815183 seconds.
+   270
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 145.976794 seconds.
+   275
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 149.590008 seconds.
+   280
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 204.075660 seconds.
+   285
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 106.309276 seconds.
+   290
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 76.259195 seconds.
+   295
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 89.595187 seconds.
+   300
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 71.808500 seconds.
+   305
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 53.617721 seconds.
+   310
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 213.133919 seconds.
+   315
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 60.350005 seconds.
+   320
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 192.549846 seconds.
+   325
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 224.647481 seconds.
+   330
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 172.842772 seconds.
+   335
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 231.841059 seconds.
+   340
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 125.400190 seconds.
+   345
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 237.918427 seconds.
+   350
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 129.245936 seconds.
+   355
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 72.065378 seconds.
+   360
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 103.600029 seconds.
+   365
+
+     1
+
+     2
+
+     3
+
+     4
+
+     5
+
+start retrieving
+Elapsed time is 132.613284 seconds.
+finished!
+Your MATLAB session has timed out.  All license keys have been returned.
